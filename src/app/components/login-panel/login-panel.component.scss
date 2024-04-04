@@ -1,0 +1,36 @@
+.card-header {
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    color: #333;
+    margin: 10px;
+}
+
+.centered-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-content {
+    text-align: center;
+    align-items: center;
+}
+
+.card-subtitle {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333;
+    margin: 10px;
+}
+
+.login-form-field {
+    min-width: 500px;
+    max-width: 750px;
+    width: 100%;
+}
+
+.full-width {
+    width: 100%;
+}
